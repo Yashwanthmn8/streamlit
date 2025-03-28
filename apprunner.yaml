@@ -1,4 +1,4 @@
-version: 1.7.0
+version: 17.07
 runtime: docker
 build:
   path: .  # Root directory
